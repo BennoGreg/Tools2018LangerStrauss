@@ -1,3 +1,4 @@
+import java.sql.SQLOutput;
 import java.util.function.BinaryOperator;
 import java.util.function.Function;
 
@@ -18,6 +19,8 @@ public class Test {
 
             System.out.println("Benedikt");
             System.out.println("Lukas");
+
+            System.out.println("hi");
 
         }
 
