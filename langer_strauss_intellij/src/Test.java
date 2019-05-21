@@ -9,7 +9,7 @@ public class Test {
         System.out.println("hätte man auch ausschreiben können");
     }
         public static void main(String[] args){
-
+            
             System.out.println("PRO rulez");
 
             System.out.println("conflict");
@@ -25,6 +25,9 @@ public class Test {
 
             System.out.println("This Method just made a bugfix");
         }
+    
+    
+    public void Test(){}
 
 }
 
